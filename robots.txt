@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaleepho.dianacarrier.com/sitemap.xml
